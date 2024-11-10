@@ -1,0 +1,35 @@
+
+body{
+  padding-left: 10px;
+  flex-wrap: wrap;
+  font-family: sans-serif;
+}
+.container{
+  
+}
+.img{
+  height: 60px;
+}
+h1{
+  font-size: larger;
+}
+p{
+}
+.apply-button{
+  background: linear-gradient(135deg,blue,red);
+  border: none;
+  width: 100px;
+  height: 30px;
+  border-radius: 15px;
+  margin-left: 20px;
+}
+.text{
+  color: white;
+  text-decoration: none;
+
+}
+.footer{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 30px;
+}
